@@ -1,0 +1,13 @@
+{
+    "name": "php-pmd/framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpPmd\\Framework\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    },
+    "require": {}
+}
