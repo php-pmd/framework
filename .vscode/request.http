@@ -1,0 +1,4 @@
+GET http://127.0.0.1:8080/index.php?a=b HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+
+###
